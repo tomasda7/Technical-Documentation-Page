@@ -14,11 +14,3 @@
   padding: 20px;
   margin-bottom: 110px;
 }
-
-@media (min-width: 560px) {
-  .main-section {
-        margin: 40px;
-        background: pink;
-        justify-content: center;
-  }
-}
